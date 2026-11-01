@@ -1,0 +1,13 @@
+{
+  "name": "plancraft-ai-pro",
+  "version": "5.1.0",
+  "description": "Enterprise Event Execution OS - Hack2skill Challenge 5",
+  "main": "index.html",
+  "scripts": {
+    "test": "node app.test.js",
+    "build": "echo 'Production build ready'"
+  },
+  "keywords": ["hack2skill", "promptwars", "challenge-5", "event-planner", "genai"],
+  "author": "Goyal Jack",
+  "license": "MIT"
+}
